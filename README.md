@@ -1,5 +1,5 @@
-# cli-curso
-Repositório oficial do curso de Command Line, ministrado por [Gabriel Kalani](https://github.com/gkal19)
+# CLI-Curso
+Repositório oficial do curso de CLI, ministrado por [Gabriel Kalani](https://github.com/gkal19)
 
 ```
   ____ _     ___            ____ _   _ ____  ____   ___
@@ -11,14 +11,18 @@ Repositório oficial do curso de Command Line, ministrado por [Gabriel Kalani](h
 ```
 
 ## Sobre
-A *linha de comando* ou *Command Line* ou abreviado de `CLI` é uma forma de interagir com o computador, em que a comunicação é toda feita por texto. 
+A *linha de comando*, do inglês *Command Line* e abreviado de `CLI` é uma forma de interagir com o computador, em que a comunicação é toda feita por texto. 
 Essa era a forma como se interagia com os computadores antes da popularização da interface gráfica, que faz uso de janelas, botões, menus, etc.
+
+## Resultados
+
+> O que vou ganhar fazendo este curso?
 
 ## Doe
 ### R$ 5,00
 -------------
 
-Faça a doação através do meu [website](http://gabrielkalani.com.br/cli-curso)
+Faça a doação através do meu [website](http://gabrielkalani.com.br/cli-curso).
 
 ## Instrutor
 Oi, me chamo [Gabriel Kalani](http://github.com/gkal19) e conhecido também por `gkal19`, tenho 15 anos, aspirante a Programador, Pentester e Palestrante.
