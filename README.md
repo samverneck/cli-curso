@@ -18,7 +18,14 @@ Essa era a forma como se interagia com os computadores antes da popularização 
 
 > O que vou ganhar fazendo este curso?
 
-Aprender a usar o Terminal ou Console e entender como funciona vários tipos de comandos.
+- Aprender a usar o Terminal ou Console
+- Entender e aprender a usar comandos
+- Navegar ou criar pastas e arquivos em seu computador
+- Conhecer diferentes editores de textos (nano, gedit)
+
+> Qual é o público alvo?
+- Usuários novos do Linux e suas diversas distribuições
+- Usuários do Windows que procuram migrar para o Linux
 
 ## Instrutor
 Oi, me chamo [Gabriel Kalani](http://github.com/gkal19) e conhecido também por `gkal19`, tenho 15 anos, aspirante a Programador, Pentester e Palestrante.
