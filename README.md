@@ -18,14 +18,12 @@ Essa era a forma como se interagia com os computadores antes da popularização 
 
 > O que vou ganhar fazendo este curso?
 
-## Doe
-### R$ 5,00
--------------
-
-Faça a doação através do meu [website](http://gabrielkalani.com.br/cli-curso).
+Aprender a usar o Terminal ou Console e entender como funciona vários tipos de comandos.
 
 ## Instrutor
 Oi, me chamo [Gabriel Kalani](http://github.com/gkal19) e conhecido também por `gkal19`, tenho 15 anos, aspirante a Programador, Pentester e Palestrante.
 Sou apaixonado por Ela, fotografia, JavaScript e um pouco de Python.
 
 ## Apostila
+
+ALTERAÇÕES EM BREVE!!
